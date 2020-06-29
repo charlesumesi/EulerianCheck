@@ -1,5 +1,5 @@
 # EulerianCheck
-A code that checks whether a network is Eulerian or not
+A Python code that checks whether a network is Eulerian or not
 ```python
 import networkx as nx
 import matplotlib.pyplot as plt
